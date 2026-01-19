@@ -66,7 +66,7 @@ Task-3-Networking-Basics/
 ---
 
 ## 👩‍💻 Author
-**Indu Shree G**  
+**Niha.k**  
 Master’s Student – Cyber Security  
 
 ---
